@@ -1,0 +1,32 @@
+#div1{
+	width: 100%;
+	padding: 15px;
+	background-color: lightseagreen;
+	color: white;
+}
+.mb{
+	margin-bottom: 10px;
+}
+.heading{
+	text-align: center;
+}
+.form-class
+{
+	margin-left: 50px;
+}
+.input{
+	width: 350px;
+	height: 20px;
+ 
+}
+.table-class{
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+}
+td,th{
+	padding: 8px;
+}
+tr:nth-child(even){
+	background-color: #d1eaf0;
+}
